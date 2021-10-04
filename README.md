@@ -5,3 +5,5 @@ One example includes relating maternal kidney and fetal liver erythropoietin exp
 Another example is relating fetal liver hepcidin expression and fetal body weight to assess their relationship.
 
 The code is relatively simple and can be easily adapted to other uses.
+
+Each file is relatively similar to others, but has been adapted for specific variables. If using the code, using 1 file should suffice.
